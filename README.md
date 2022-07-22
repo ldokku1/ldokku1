@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ldokku1
 - 👀 I’m interested in Linux kernel 
-- 🌱 I’m currently learning shell scripting
+- 🌱 I’m currently learning GO and Python
 - 📫 How to reach me lokanadhamyadav786@gmail.com
 
 <!---
